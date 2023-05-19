@@ -1,0 +1,234 @@
+{
+    "update": [
+        {
+            "id": 12046,
+            "name": "Woo Single #1",
+            "slug": "woo-single-1",
+            "permalink": "https://storewooshop.azurewebsites.net/product/woo-single-1/",
+            "date_created": "2023-05-19T16:32:14",
+            "date_created_gmt": "2023-05-19T16:32:14",
+            "date_modified": "2023-05-19T16:38:20",
+            "date_modified_gmt": "2023-05-19T16:38:20",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "",
+            "short_description": "",
+            "sku": "",
+            "price": "21.99",
+            "regular_price": "21.99",
+            "sale_price": "",
+            "date_on_sale_from": null,
+            "date_on_sale_from_gmt": null,
+            "date_on_sale_to": null,
+            "date_on_sale_to_gmt": null,
+            "on_sale": false,
+            "purchasable": true,
+            "total_sales": 0,
+            "virtual": true,
+            "downloadable": true,
+            "downloads": [
+                {
+                    "id": "d3f32749-6f0b-4e86-867a-b52eed13e1c8",
+                    "name": "Woo Single",
+                    "file": "http://demo.woothemes.com/woocommerce/wp-content/uploads/sites/56/2013/06/cd_4_angle.jpg"
+                }
+            ],
+            "download_limit": -1,
+            "download_expiry": -1,
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "low_stock_amount": null,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": false,
+            "shipping_taxable": false,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": true,
+            "average_rating": "0",
+            "rating_count": 0,
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 15,
+                    "name": "Uncategorized",
+                    "slug": "uncategorized"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 12045,
+                    "date_created": "2023-05-19T16:32:12",
+                    "date_created_gmt": "2023-05-19T16:32:12",
+                    "date_modified": "2023-05-19T16:32:12",
+                    "date_modified_gmt": "2023-05-19T16:32:12",
+                    "src": "/wp-content/uploads/2023/05/cd_4_angle.jpg",
+                    "name": "cd_4_angle.jpg",
+                    "alt": ""
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>22<span class=\"woocommerce-Price-currencySymbol\">&#8363;</span></bdi></span>",
+            "related_ids": [
+                11019,
+                12049
+            ],
+            "meta_data": [],
+            "stock_status": "outofstock",
+            "has_options": false,
+            "permalink_template": "https://storewooshop.azurewebsites.net/product/%pagename%/",
+            "generated_slug": "woo-single-1",
+            "_links": {
+                "self": [
+                    {
+                        "href": "https://storewooshop.azurewebsites.net/wp-json/wc/v3/products/12046"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https://storewooshop.azurewebsites.net/wp-json/wc/v3/products"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 12049,
+            "name": "New Premium Quality",
+            "slug": "new-premium-quality",
+            "permalink": "https://storewooshop.azurewebsites.net/product/new-premium-quality/",
+            "date_created": "2023-05-19T16:32:20",
+            "date_created_gmt": "2023-05-19T16:32:20",
+            "date_modified": "2023-05-19T16:38:20",
+            "date_modified_gmt": "2023-05-19T16:38:20",
+            "type": "simple",
+            "status": "publish",
+            "featured": false,
+            "catalog_visibility": "visible",
+            "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "sku": "",
+            "price": "220000",
+            "regular_price": "220000",
+            "sale_price": "",
+            "date_on_sale_from": null,
+            "date_on_sale_from_gmt": null,
+            "date_on_sale_to": null,
+            "date_on_sale_to_gmt": null,
+            "on_sale": false,
+            "purchasable": true,
+            "total_sales": 0,
+            "virtual": false,
+            "downloadable": false,
+            "downloads": [],
+            "download_limit": -1,
+            "download_expiry": -1,
+            "external_url": "",
+            "button_text": "",
+            "tax_status": "taxable",
+            "tax_class": "",
+            "manage_stock": false,
+            "stock_quantity": null,
+            "backorders": "no",
+            "backorders_allowed": false,
+            "backordered": false,
+            "low_stock_amount": null,
+            "sold_individually": false,
+            "weight": "",
+            "dimensions": {
+                "length": "",
+                "width": "",
+                "height": ""
+            },
+            "shipping_required": true,
+            "shipping_taxable": true,
+            "shipping_class": "",
+            "shipping_class_id": 0,
+            "reviews_allowed": true,
+            "average_rating": "0",
+            "rating_count": 0,
+            "upsell_ids": [],
+            "cross_sell_ids": [],
+            "parent_id": 0,
+            "purchase_note": "",
+            "categories": [
+                {
+                    "id": 15,
+                    "name": "Uncategorized",
+                    "slug": "uncategorized"
+                }
+            ],
+            "tags": [],
+            "images": [
+                {
+                    "id": 12047,
+                    "date_created": "2023-05-19T16:32:17",
+                    "date_created_gmt": "2023-05-19T16:32:17",
+                    "date_modified": "2023-05-19T16:32:17",
+                    "date_modified_gmt": "2023-05-19T16:32:17",
+                    "src": "/wp-content/uploads/2023/05/T_2_front-2.jpg",
+                    "name": "T_2_front-2.jpg",
+                    "alt": ""
+                },
+                {
+                    "id": 12048,
+                    "date_created": "2023-05-19T16:32:18",
+                    "date_created_gmt": "2023-05-19T16:32:18",
+                    "date_modified": "2023-05-19T16:32:18",
+                    "date_modified_gmt": "2023-05-19T16:32:18",
+                    "src": "/wp-content/uploads/2023/05/T_2_back-2.jpg",
+                    "name": "T_2_back-2.jpg",
+                    "alt": ""
+                }
+            ],
+            "attributes": [],
+            "default_attributes": [],
+            "variations": [],
+            "grouped_products": [],
+            "menu_order": 0,
+            "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>220.000<span class=\"woocommerce-Price-currencySymbol\">&#8363;</span></bdi></span>",
+            "related_ids": [
+                12046,
+                11019
+            ],
+            "meta_data": [],
+            "stock_status": "instock",
+            "has_options": false,
+            "permalink_template": "https://storewooshop.azurewebsites.net/product/%pagename%/",
+            "generated_slug": "new-premium-quality",
+            "_links": {
+                "self": [
+                    {
+                        "href": "https://storewooshop.azurewebsites.net/wp-json/wc/v3/products/12049"
+                    }
+                ],
+                "collection": [
+                    {
+                        "href": "https://storewooshop.azurewebsites.net/wp-json/wc/v3/products"
+                    }
+                ]
+            }
+        }
+    ]
+}
